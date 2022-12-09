@@ -1,0 +1,51 @@
+{
+  "Cages": [
+    {
+      "Animals": [
+        {
+          "Type": "dog",
+          "Type power supply": "Predatory",
+          "Family": "canine",
+          "Name": "Dig",
+          "Voice": "Bow-wow"
+        }
+      ]
+    },
+    {
+      "Animals": [
+        {
+          "Type": "cat",
+          "Type power supply": "Predatory",
+          "Family": "feline",
+          "Name": "Sam",
+          "Voice": "Meow"
+        },
+        {
+          "Type": "cat",
+          "Type power supply": "Predatory",
+          "Family": "feline",
+          "Name": "Casey",
+          "Voice": "Meow"
+        }
+      ]
+    },
+    {
+      "Animals": [
+        {
+          "Type": "cow",
+          "Type power supply": "Herbivores",
+          "Family": "bovids",
+          "Name": "Gru",
+          "Voice": "Muuu"
+        },
+        {
+          "Type": "goat",
+          "Type power supply": "Herbivores",
+          "Family": "bovids",
+          "Name": "Step",
+          "Voice": "Meee"
+        }
+      ]
+    }
+  ]
+}
